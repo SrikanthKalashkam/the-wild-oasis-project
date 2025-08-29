@@ -1,3 +1,3 @@
 #Wild Oasis Project
 
-Main project created in Jonas Schmedymann Course. Build with React Query and Supabase.
+Main project created in Jonas Schmedtmann Course. Build with React Query and Supabase.
